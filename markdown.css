@@ -1,0 +1,16 @@
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(22, 208, 255);
+  font-weight: bold;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 1rem;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+/* body>div>ul>li>ul {
+  color: rgb(255, 202, 104);
+} */
